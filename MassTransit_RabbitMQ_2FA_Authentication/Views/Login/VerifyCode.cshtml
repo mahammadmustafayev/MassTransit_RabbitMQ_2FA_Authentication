@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "VerifyCode";
+}
+@model CodeVerificationViewModel;
+
+<form asp-action="VerifyCode" method="post">
+    <div>
+        <label>Enter the code sent to your email:</label>
+        <input type="text" asp-for="Code" required />
+        <span asp-validation-for="Code"></span>
+    </div>
+    <button type="submit">Verify</button>
+</form>

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\MassTransit_RabbitMQ_2FA_Authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D295F6CA-6533-469D-82AE-652DAAB2DD1A}|MassTransit_RabbitMQ_2FA_Authentication\\MassTransit_RabbitMQ_2FA_Authentication.csproj|d:\\projects\\masstransit_rabbitmq_2fa_authentication\\masstransit_rabbitmq_2fa_authentication\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D295F6CA-6533-469D-82AE-652DAAB2DD1A}|MassTransit_RabbitMQ_2FA_Authentication\\MassTransit_RabbitMQ_2FA_Authentication.csproj|solutionrelative:masstransit_rabbitmq_2fa_authentication\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D295F6CA-6533-469D-82AE-652DAAB2DD1A}|MassTransit_RabbitMQ_2FA_Authentication\\MassTransit_RabbitMQ_2FA_Authentication.csproj|d:\\projects\\masstransit_rabbitmq_2fa_authentication\\masstransit_rabbitmq_2fa_authentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D295F6CA-6533-469D-82AE-652DAAB2DD1A}|MassTransit_RabbitMQ_2FA_Authentication\\MassTransit_RabbitMQ_2FA_Authentication.csproj|solutionrelative:masstransit_rabbitmq_2fa_authentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D295F6CA-6533-469D-82AE-652DAAB2DD1A}|MassTransit_RabbitMQ_2FA_Authentication\\MassTransit_RabbitMQ_2FA_Authentication.csproj|d:\\projects\\masstransit_rabbitmq_2fa_authentication\\masstransit_rabbitmq_2fa_authentication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D295F6CA-6533-469D-82AE-652DAAB2DD1A}|MassTransit_RabbitMQ_2FA_Authentication\\MassTransit_RabbitMQ_2FA_Authentication.csproj|solutionrelative:masstransit_rabbitmq_2fa_authentication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D295F6CA-6533-469D-82AE-652DAAB2DD1A}|MassTransit_RabbitMQ_2FA_Authentication\\MassTransit_RabbitMQ_2FA_Authentication.csproj|d:\\projects\\masstransit_rabbitmq_2fa_authentication\\masstransit_rabbitmq_2fa_authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D295F6CA-6533-469D-82AE-652DAAB2DD1A}|MassTransit_RabbitMQ_2FA_Authentication\\MassTransit_RabbitMQ_2FA_Authentication.csproj|solutionrelative:masstransit_rabbitmq_2fa_authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\MassTransit_RabbitMQ_2FA_Authentication\\MassTransit_RabbitMQ_2FA_Authentication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MassTransit_RabbitMQ_2FA_Authentication\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projects\\MassTransit_RabbitMQ_2FA_Authentication\\MassTransit_RabbitMQ_2FA_Authentication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MassTransit_RabbitMQ_2FA_Authentication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:33:31.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MassTransit_RabbitMQ_2FA_Authentication\\MassTransit_RabbitMQ_2FA_Authentication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MassTransit_RabbitMQ_2FA_Authentication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\MassTransit_RabbitMQ_2FA_Authentication\\MassTransit_RabbitMQ_2FA_Authentication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MassTransit_RabbitMQ_2FA_Authentication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T16:28:33.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Projects\\MassTransit_RabbitMQ_2FA_Authentication\\MassTransit_RabbitMQ_2FA_Authentication\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MassTransit_RabbitMQ_2FA_Authentication\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Projects\\MassTransit_RabbitMQ_2FA_Authentication\\MassTransit_RabbitMQ_2FA_Authentication\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MassTransit_RabbitMQ_2FA_Authentication\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAArwCoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:27:31.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\MassTransit_RabbitMQ_2FA_Authentication\\MassTransit_RabbitMQ_2FA_Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "MassTransit_RabbitMQ_2FA_Authentication\\Program.cs",
+              "ToolTip": "D:\\Projects\\MassTransit_RabbitMQ_2FA_Authentication\\MassTransit_RabbitMQ_2FA_Authentication\\Program.cs",
+              "RelativeToolTip": "MassTransit_RabbitMQ_2FA_Authentication\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:20:28.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

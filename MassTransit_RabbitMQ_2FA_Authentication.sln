@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit_RabbitMQ_2FA_Authentication", "MassTransit_RabbitMQ_2FA_Authentication\MassTransit_RabbitMQ_2FA_Authentication.csproj", "{D295F6CA-6533-469D-82AE-652DAAB2DD1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Consumer\Consumer.csproj", "{C2963067-4EF3-454B-BDE9-3230B25E67F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D295F6CA-6533-469D-82AE-652DAAB2DD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D295F6CA-6533-469D-82AE-652DAAB2DD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D295F6CA-6533-469D-82AE-652DAAB2DD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D295F6CA-6533-469D-82AE-652DAAB2DD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2963067-4EF3-454B-BDE9-3230B25E67F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2963067-4EF3-454B-BDE9-3230B25E67F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2963067-4EF3-454B-BDE9-3230B25E67F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2963067-4EF3-454B-BDE9-3230B25E67F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60427B86-465D-4A7E-9187-0D4036717EB0}
+	EndGlobalSection
+EndGlobal

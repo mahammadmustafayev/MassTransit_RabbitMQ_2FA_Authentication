@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MassTransit_RabbitMQ_2FA_Authentication.props" />
+</Project>
